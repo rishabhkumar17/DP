@@ -9,6 +9,7 @@ Problem:
 Framework for Solving DP Problems:
 	1. Define the objective function
 		f(i) is the number of distinct ways to reach the i-th stair.
+		
 	2. Identify base cases
 		f(0) = 1
 		f(1) = 1
